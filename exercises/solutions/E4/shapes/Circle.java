@@ -21,4 +21,7 @@ public class Circle {
         this.radius = radius;
     }
 
+    public void computeArea(double radius2) {
+    }
+
 }
